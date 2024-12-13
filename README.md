@@ -1,4 +1,4 @@
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 **Project Title:** Bikeway Analytics: An Exploratory Data Analysis of Cycling Infrastructure in Vancouver        
 
