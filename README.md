@@ -83,6 +83,10 @@ Analysis result obtained by running SQL query on the Data catalog
 <img width="1124" alt="SQL Query using Athena" src="https://github.com/user-attachments/assets/42d457a1-5904-4526-95f9-79c657c5c8ec" />
 Note.  Primary Source.
 
+Draw io representation of the steps implemented:   
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/bbc8b258-947f-4a71-aad8-1dce3868de2e" />    
+Note.  Primary Source.   
+
 
 **Visualization:**
 
