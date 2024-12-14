@@ -76,7 +76,7 @@ Note. Primary Source.
 • Incorporate derived metrics such as average segment length and categorize bikeway types for enhanced analysis.          
 • Transform the dataset into a queryable and visualization-ready format for use in advanced analytics.          
 • Converted the cleaned dataset into Parquet format for optimized querying and analysis.              
-• Created new attributes for safety and usage analysis. 
+• Created new attributes for safety and usage analysis.         
 • Check for the completeness, uniqueness and the freshness of the data and ensure it passes all the quality checks to ensure the integrity of the dataset.
 
 
