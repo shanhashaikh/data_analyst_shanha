@@ -77,6 +77,8 @@ Note. Primary Source.
 • Transform the dataset into a queryable and visualization-ready format for use in advanced analytics.          
 • Converted the cleaned dataset into Parquet format for optimized querying and analysis.              
 • Created new attributes for safety and usage analysis. 
+• Check for the completeness, uniqueness and the freshness of the data and ensure it passes all the quality checks to ensure the integrity of the dataset.
+
 
 Data Governance Pipeline _ Data quality & control implemented
 ![image](https://github.com/user-attachments/assets/08eae09c-b821-4d51-80b6-f945d2ecba13)
