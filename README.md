@@ -116,7 +116,7 @@ From the screenshots of the profiling results, the following observations were m
    Numerical fields were checked for outliers. Screenshots indicate potential inconsistencies or invalid entries (e.g., negative grades or unrealistic values).
 
 
-Key Recommendations:     
+**Key Recommendations:**     
 
 1.	Handle Missing Data:
    Use imputation methods (mean, median, mode) or remove rows with excessive null values.
