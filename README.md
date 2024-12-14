@@ -106,6 +106,9 @@ ETL Pipeline results for Users using Auto balance transform and just a single ou
 ![ETL Results user](https://github.com/user-attachments/assets/19a5e744-eb99-4b35-8e41-70552ee8fec8)
 Note.  Primary Source.
 
+Draw io representation of the steps implemented:    
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/5a98259f-098f-40bf-bd9f-df8fedd07714" />      
+Note.  Primary Source.
 
 **Data Analysis:**                 
 •	Utilized SQL queries in AWS Athena to calculate metrics such as average speed limits and segment lengths for bikeway subtypes.                 
